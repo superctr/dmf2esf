@@ -107,4 +107,4 @@ Libraries
 ---------
 * [`miniz`](http://code.google.com/p/miniz/): Rich Geldreich
 
-* [`inih`](http://http://code.google.com/p/inih/): Brush Technology
+* [`inih`](http://code.google.com/p/inih/): Brush Technology
